@@ -474,6 +474,9 @@ function rewriteHtml(html, pagePath) {
     '<a href="mailto:contact@paloozafoundation.org">contact@paloozafoundation.org</a>'
   );
 
+  // Remove gif-00763 block (Giphy GIF that fails to load in Safari, shows as white square)
+  result = result.replace(/<div id="gif-00763"[^>]*>.*?<\/picture><\/div><\/div>/g, '');
+
   return result;
 }
 
