@@ -1,0 +1,5 @@
+node_modules/
+screenshots/
+debug*.mjs
+findbox*.mjs
+compare.mjs

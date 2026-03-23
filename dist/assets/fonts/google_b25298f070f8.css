@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/balsamiqsans/v15/P5sazZiAbNrN8SB3lQQX7PncwdsXJQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/balsamiqsans/v15/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpsBw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/balsamiqsans/v15/P5sEzZiAbNrN8SB3lQQX7Pnc8dk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/balsamiqsans/v15/P5sZzZiAbNrN8SB3lQQX7PncyWUyBY8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Finger Paint';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/fingerpaint/v21/0QInMXVJ-o-oRn_7dron8YWO8w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/lato/v25/S6uyw4BMUTPHvxk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Luckiest Guy';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/luckiestguy/v25/_gP_1RrxsjcxVyin9l9n_j2RSg.ttf) format('truetype');
+}
