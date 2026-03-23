@@ -11,7 +11,7 @@ import { createHash } from "crypto";
 import { URL } from "url";
 
 const SITE_ORIGIN = "https://paloozafoundation.org";
-const OUTPUT_DIR = join(process.cwd(), "dist");
+const OUTPUT_DIR = join(process.cwd(), "docs");
 
 // Pages to crawl (known from site navigation)
 const PAGES = ["/", "/photos", "/about", "/www"];
